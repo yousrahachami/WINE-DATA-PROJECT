@@ -1,0 +1,34 @@
+﻿Section;Origine;Variable;2020;2021;2022;2023
+Vin blanc;Italie;Stocks début année;30597;34921;32084;34964
+Vin blanc;Italie;Importations;129440;119683;119288;119351
+Vin blanc;Italie;Disponibilités;160037;154604;151372;154315
+Vin blanc;Italie;Stocks fin année;34921;32084;34964;33808
+Vin blanc;Italie;Consommation;125116;122520;116408;120507
+Vin blanc;France;Stocks début année;19779;23461;21810;21118
+Vin blanc;France;Importations;87161;90001;76975;83165
+Vin blanc;France;Disponibilités;106940;113462;98785;104283
+Vin blanc;France;Stocks fin année;23461;21810;21118;24301
+Vin blanc;France;Consommation;83479;91652;77667;79982
+Vin blanc;Espagne;Stocks début année;9750;8678;8143;8966
+Vin blanc;Espagne;Importations;54169;72919;82474;91254
+Vin blanc;Espagne;Disponibilités;63919;81597;90617;100220
+Vin blanc;Espagne;Stocks fin année;8678;8143;8966;11531
+Vin blanc;Espagne;Consommation;55241;73454;81651;88689
+Vin rouge;Italie;Stocks début année;156035;151701;150263;161148
+Vin rouge;Italie;Importations;509634;515161;464103;434466
+Vin rouge;Italie;Disponibilités;665669;666862;614366;595614
+Vin rouge;Italie;Stocks fin année;151701;150263;161148;165029
+Vin rouge;Italie;Consommation;513968;516599;453218;430585
+Vin rouge;France;Stocks début année;94560;90532;98923;99965
+Vin rouge;France;Importations;262898;279364;254337;237101
+Vin rouge;France;Disponibilités;357458;369896;353260;337066
+Vin rouge;France;Stocks fin année;90532;98923;99965;95247
+Vin rouge;France;Consommation;266926;270973;253295;241819
+Vin rouge;Espagne;Stocks début année;58791;57990;57285;64210
+Vin rouge;Espagne;Importations;194927;193948;196399;181501
+Vin rouge;Espagne;Disponibilités;253718;251938;253684;245711
+Vin rouge;Espagne;Stocks fin année;57990;57285;64210;62338
+Vin rouge;Espagne;Consommation;195728;194653;189474;183373
+Tous vins;Italie;Consommation totale (tous vins);639084;639119;569626;551092
+Tous vins;France;Consommation totale (tous vins);350405;362625;330962;321801
+Tous vins;Espagne;Consommation totale (tous vins);250969;268107;271125;272062
