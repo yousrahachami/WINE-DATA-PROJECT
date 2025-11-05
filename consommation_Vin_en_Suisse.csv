@@ -1,0 +1,28 @@
+﻿Section;Origine;Variable;2017;2018;2019;2020;Unité
+Vin blanc;Suisse;Stocks début année*;714730;688657;785597;812291;hl
+Vin blanc;Suisse;Récolte sans jus de raisin;402070;540739;497531;413144;hl
+Vin blanc;Suisse;Disponibilités;1116800;1229396;1283128;1225435;hl
+Vin blanc;Suisse;Stocks fin année*;688657;791493;812291;753748;hl
+Vin blanc;Suisse;Consommation;428143;437903;470837;471687;hl
+Vin blanc;Étranger;Stocks début année**;116935;118359;125473;113560;hl
+Vin blanc;Étranger;Importations;400372;393886;397588;392644;hl
+Vin blanc;Étranger;Disponibilités;517307;512245;523061;506204;hl
+Vin blanc;Étranger;Stocks fin année**;118359;125473;113560;154299;hl
+Vin blanc;Étranger;Consommation;398948;386772;409501;351905;hl
+Vin blanc;Tous;Consommation totale de vin blanc;827091;824675;880338;823592;hl
+Vin rouge;Suisse;Stocks début année*;877067;826528;934352;941518;hl
+Vin rouge;Suisse;Récolte sans jus de raisin;389720;570795;481914;421091;hl
+Vin rouge;Suisse;Disponibilités;1266787;1397323;1416266;1362609;hl
+Vin rouge;Suisse;Stocks fin année*;826528;942030;941518;885264;hl
+Vin rouge;Suisse;Consommation;440259;455293;474748;477345;hl
+Vin rouge;Étranger;Stocks début année**;424075;434760;435061;394244;hl
+Vin rouge;Étranger;Importations;1237092;1159138;1156915;1199550;hl
+Vin rouge;Étranger;Disponibilités;1661167;1593898;1591976;1593794;hl
+Vin rouge;Étranger;Stocks fin année**;434760;435061;394244;491735;hl
+Vin rouge;Étranger;Consommation;1226407;1158837;1197732;1102059;hl
+Vin rouge;Tous;Consommation totale de vin rouge;1666666;1614130;1672480;1579404;hl
+Total;Tous;Consommation totale;2493757;2438805;2552818;2402996;hl
+Total;Suisse;dont vin suisse;868402;893196;945585;949032;hl
+Total;Étranger;dont vin étranger;1625355;1545609;1607233;1453964;hl
+Exportations;Vin blanc;Exportations vin blanc***;4571;3527;4301;4721;hl
+Exportations;Vin rouge;Exportations vin rouge***;8187;7315;7537;7318;hl
